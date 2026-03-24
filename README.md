@@ -1,6 +1,61 @@
 # Online Appointment Booking Application
 
-A comprehensive **Online Appointment Booking Application** built with Node.js and Express, using **in-memory data storage** — no database required!
+Complete full-stack appointment booking system.
+
+## Project Structure
+
+- **backend/** - Express.js REST API
+- **frontend/** - React + Vite UI
+
+## Quick Start
+
+### Backend
+```bash
+cd backend
+npm install
+npm start
+```
+
+### Frontend
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+## Running Both
+
+Terminal 1:
+```bash
+cd backend
+npm install
+npm start
+```
+
+Terminal 2:
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+- Backend: http://localhost:3000
+- Frontend: http://localhost:5173
+
+## Features
+
+- Browse service providers
+- Book appointments
+- Manage your bookings
+- Leave reviews and ratings
+- Admin dashboard
+- Responsive design
+
+---
+
+## Backend Details
+
+A comprehensive **Online Appointment Booking API** built with Node.js and Express, using **in-memory data storage** — no database required!
 
 ## Features
 
