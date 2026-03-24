@@ -1,0 +1,8 @@
+const { ROLES, APPOINTMENT_STATUS, SLOT_STATUS, NOTIFICATION_TYPES } = require('../config/constants');
+
+module.exports = {
+  ROLES,
+  APPOINTMENT_STATUS,
+  SLOT_STATUS,
+  NOTIFICATION_TYPES,
+};
